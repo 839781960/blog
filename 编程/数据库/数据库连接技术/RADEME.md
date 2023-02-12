@@ -1,0 +1,6 @@
+- Java:JDBC（Java Database Connectivity）
+- C#: ADO.NET
+- C: ODBC（Open Database Connectivity）
+- Python: PyMySQL、SQLAlchemy、Django ORM
+- Go: database/sql
+- Rust: diesel
